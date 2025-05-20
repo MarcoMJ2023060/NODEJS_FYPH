@@ -103,9 +103,9 @@
     "$oid": "682b6fd7ff0f31eeb3b7ce7e"
   },
   "name": "Habitacion 6",
-  "description": "Cuenta con lo necesario",
+  "description": "Cuenta con lo necesario y un poco mas que vale la pena pagar",
   "capacity": "7",
-  "pricePerDay": 3000,
+  "pricePerDay": 5000,
   "status": true,
   "type": "DELUXE",
   "hotel": {
